@@ -1,2 +1,3 @@
 Day 1 hackathon
-INTRODUCTION TO GITHUB
+INTRODUCTION TO GITHUB:
+making changes in github.
